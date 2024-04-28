@@ -6,6 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
+# Folders
+Art_Nouveau_Modern/*
+Contemporary_Realism/*
+Cubism/*
+Early_Renaissance/*
+Fauvism/*
+Impressionism/*
+Naive_Art_Primitivism/*
+Northern_Renaissance/*
+Pop_Art/*
+Symbolism/*
+kaggle.json
 # Distribution / packaging
 .Python
 build/
